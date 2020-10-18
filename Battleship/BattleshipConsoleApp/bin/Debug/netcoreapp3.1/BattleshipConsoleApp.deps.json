@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BattleshipConsoleApp/1.0.0": {
+        "dependencies": {
+          "BattleShipConsoleUI": "1.0.0",
+          "GameLogic": "1.0.0",
+          "MenuSystem": "1.0.0"
+        },
+        "runtime": {
+          "BattleshipConsoleApp.dll": {}
+        }
+      },
+      "BattleShipConsoleUI/1.0.0": {
+        "dependencies": {
+          "GameLogic": "1.0.0",
+          "MenuSystem": "1.0.0"
+        },
+        "runtime": {
+          "BattleShipConsoleUI.dll": {}
+        }
+      },
+      "GameLogic/1.0.0": {
+        "runtime": {
+          "GameLogic.dll": {}
+        }
+      },
+      "MenuSystem/1.0.0": {
+        "dependencies": {
+          "GameLogic": "1.0.0"
+        },
+        "runtime": {
+          "MenuSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleshipConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattleShipConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MenuSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

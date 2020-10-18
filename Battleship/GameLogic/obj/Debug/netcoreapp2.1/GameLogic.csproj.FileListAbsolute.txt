@@ -1,0 +1,9 @@
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\obj\Debug\netcoreapp2.1\GameLogic.AssemblyInfoInputs.cache
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\obj\Debug\netcoreapp2.1\GameLogic.AssemblyInfo.cs
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\obj\Debug\netcoreapp2.1\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\bin\Debug\netcoreapp2.1\GameLogic.deps.json
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\bin\Debug\netcoreapp2.1\GameLogic.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\bin\Debug\netcoreapp2.1\GameLogic.pdb
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\obj\Debug\netcoreapp2.1\GameLogic.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\obj\Debug\netcoreapp2.1\GameLogic.pdb
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\GameLogic\obj\Debug\netcoreapp2.1\GameLogic.csprojAssemblyReference.cache

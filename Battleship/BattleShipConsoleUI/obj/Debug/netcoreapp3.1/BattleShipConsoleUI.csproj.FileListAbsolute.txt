@@ -1,0 +1,14 @@
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\bin\Debug\netcoreapp3.1\BattleShipConsoleUI.deps.json
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\bin\Debug\netcoreapp3.1\BattleShipConsoleUI.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\bin\Debug\netcoreapp3.1\BattleShipConsoleUI.pdb
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\bin\Debug\netcoreapp3.1\GameLogic.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\bin\Debug\netcoreapp3.1\MenuSystem.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\bin\Debug\netcoreapp3.1\GameLogic.pdb
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\bin\Debug\netcoreapp3.1\MenuSystem.pdb
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\obj\Debug\netcoreapp3.1\BattleShipConsoleUI.csprojAssemblyReference.cache
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\obj\Debug\netcoreapp3.1\BattleShipConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\obj\Debug\netcoreapp3.1\BattleShipConsoleUI.AssemblyInfo.cs
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\obj\Debug\netcoreapp3.1\BattleShipConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\obj\Debug\netcoreapp3.1\BattleShipConsoleUI.csproj.CopyComplete
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\obj\Debug\netcoreapp3.1\BattleShipConsoleUI.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\BattleShipConsoleUI\obj\Debug\netcoreapp3.1\BattleShipConsoleUI.pdb

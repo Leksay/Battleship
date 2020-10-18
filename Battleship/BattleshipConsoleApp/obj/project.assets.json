@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BattleShipConsoleUI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "GameLogic": "1.0.0",
+          "MenuSystem": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BattleShipConsoleUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipConsoleUI.dll": {}
+        }
+      },
+      "GameLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/GameLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameLogic.dll": {}
+        }
+      },
+      "MenuSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "GameLogic": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MenuSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MenuSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleShipConsoleUI/1.0.0": {
+      "type": "project",
+      "path": "../BattleShipConsoleUI/BattleShipConsoleUI.csproj",
+      "msbuildProject": "../BattleShipConsoleUI/BattleShipConsoleUI.csproj"
+    },
+    "GameLogic/1.0.0": {
+      "type": "project",
+      "path": "../GameLogic/GameLogic.csproj",
+      "msbuildProject": "../GameLogic/GameLogic.csproj"
+    },
+    "MenuSystem/1.0.0": {
+      "type": "project",
+      "path": "../MenuSystem/MenuSystem.csproj",
+      "msbuildProject": "../MenuSystem/MenuSystem.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BattleShipConsoleUI >= 1.0.0",
+      "GameLogic >= 1.0.0",
+      "MenuSystem >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Leksay\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\BattleshipConsoleApp\\BattleshipConsoleApp.csproj",
+      "projectName": "BattleshipConsoleApp",
+      "projectPath": "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\BattleshipConsoleApp\\BattleshipConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Leksay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\BattleshipConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Leksay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\BattleShipConsoleUI\\BattleShipConsoleUI.csproj": {
+              "projectPath": "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\BattleShipConsoleUI\\BattleShipConsoleUI.csproj"
+            },
+            "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\GameLogic\\GameLogic.csproj": {
+              "projectPath": "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\GameLogic\\GameLogic.csproj"
+            },
+            "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\MenuSystem\\MenuSystem.csproj": {
+              "projectPath": "C:\\Users\\Leksay\\Source\\Repos\\Battleship2\\Battleship\\MenuSystem\\MenuSystem.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

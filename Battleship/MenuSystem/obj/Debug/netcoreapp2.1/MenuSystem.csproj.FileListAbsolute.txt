@@ -1,0 +1,12 @@
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\obj\Debug\netcoreapp2.1\MenuSystem.csprojAssemblyReference.cache
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\obj\Debug\netcoreapp2.1\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\obj\Debug\netcoreapp2.1\MenuSystem.AssemblyInfo.cs
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\obj\Debug\netcoreapp2.1\MenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\bin\Debug\netcoreapp2.1\MenuSystem.deps.json
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\bin\Debug\netcoreapp2.1\MenuSystem.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\bin\Debug\netcoreapp2.1\MenuSystem.pdb
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\bin\Debug\netcoreapp2.1\GameLogic.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\bin\Debug\netcoreapp2.1\GameLogic.pdb
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\obj\Debug\netcoreapp2.1\MenuSystem.csproj.CopyComplete
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\obj\Debug\netcoreapp2.1\MenuSystem.dll
+C:\Users\Leksay\Source\Repos\Battleship2\Battleship\MenuSystem\obj\Debug\netcoreapp2.1\MenuSystem.pdb
